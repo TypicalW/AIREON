@@ -12,7 +12,7 @@ This repository will evolve from a basic simulation engine into a full research-
 
 ---
 
-## 🚀 **Project Goals**
+##  **Project Goals**
 - Model an IoT network with realistic behavior:
   - Sleep/idle/tx states  
   - Packet generation  
@@ -40,7 +40,7 @@ This repository will evolve from a basic simulation engine into a full research-
  
 ---
 
-## 🛠️ **Technologies Used**
+##  **Technologies Used**
 
 ### **Languages**
 - Python 3.13  
